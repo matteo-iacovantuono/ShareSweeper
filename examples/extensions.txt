@@ -1,0 +1,43 @@
+# Source code
+
+.c
+.cpp
+.h
+.cs
+.java
+.py
+.rb
+.go
+
+# Keys
+
+.ppk
+.pub
+.pem
+.p12
+.der
+
+# DB files
+
+.mdb
+.bak
+.dump
+
+# Web
+
+.php
+.asp
+.aspx
+.jsp
+.htaccess
+
+# Virtual machines
+
+.vmdk
+.ova
+.ovf
+
+# Sensitive documents
+
+.eml
+.msg

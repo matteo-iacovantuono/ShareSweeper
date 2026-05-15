@@ -1,0 +1,39 @@
+# Credentials
+
+private
+master
+login
+auth
+passwd
+
+# SSH
+
+id_rsa
+authorized
+known_hosts
+ssh_config
+
+# Personal data
+
+finance
+salary
+hr
+employee
+confidential
+
+# Environment
+
+config
+setup
+install
+deploy
+network
+firewall
+
+# Misc
+
+todo
+note
+draft
+old
+temp
