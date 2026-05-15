@@ -74,7 +74,7 @@ def enumerate_share(conn, share, path='', depth=0, flagged=None, download=False,
     if flagged is None:
         flagged = []
 
-    indent = '  ' * depth
+    indent = '    ' * depth
 
     try:
         entries = conn.listPath(share, path + '\\*')
