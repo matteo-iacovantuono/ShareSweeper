@@ -1,9 +1,20 @@
-# ShareSweeper
+```
+   _____ __                   _____                                  
+  / ___// /_  ____ _________ / ___/      _____  ___  ____  ___  _____
+  \__ \/ __ \/ __ `/ ___/ _ \\__ \ | /| / / _ \/ _ \/ __ \/ _ \/ ___/
+ ___/ / / / / /_/ / /  /  __/__/ / |/ |/ /  __/  __/ /_/ /  __/ /    
+/____/_/ /_/\__,_/_/   \___/____/|__/|__/\___/\___/ .___/\___/_/     
+                                                 /_/                
+```
 *by Matteo Iacovantuono*
 
 ## Overview
 
 ShareSweeper is a Python tool for recursively enumerating SMB shares during penetration testing engagements. While working through lab and CTF environments, I often found myself manually navigating shares with `smbclient`, making it difficult to keep track of interesting files and their location within the directory structure. ShareSweeper was built to address this, automating the process and providing a variety of options to streamline SMB share enumeration.
+
+<br>
+
+![ShareSweeper output](assets/example-output.png)
 
 ## Installation
 
